@@ -26,7 +26,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,19 +36,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="79" column="34" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="34" />
+            <state relative-caret-position="131">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1661#1662#0" expanded="true" />
-                <element signature="e#1692#1693#0" expanded="true" />
-                <element signature="e#2041#2042#0" expanded="true" />
                 <element signature="e#2083#2084#0" expanded="true" />
-                <element signature="e#2538#2539#0" expanded="true" />
-                <element signature="e#2580#2581#0" expanded="true" />
+                <element signature="e#2114#2115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/LoginTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1683">
+              <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
+                <element signature="e#1070#1071#0" expanded="true" />
+                <element signature="e#2926#2927#0" expanded="true" />
+                <element signature="e#2948#2949#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+                <element signature="e#1676#1677#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -439,6 +465,8 @@
         <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/settings.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Base.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/LoginTests.java" />
       </list>
     </option>
   </component>
@@ -454,6 +482,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -491,9 +520,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -514,16 +542,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyFirstTest">
+  <component name="RunManager" selected="JUnit.LoginTests">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MyFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstTest" />
+      <option name="MAIN_CLASS_NAME" value="LoginTests" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -535,13 +563,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MyFirstTest.myFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests.successfulLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstTest" />
-      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="MAIN_CLASS_NAME" value="LoginTests" />
+      <option name="METHOD_NAME" value="successfulLogin" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -552,14 +580,48 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MyFirstTest.mySecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests.unsuccessfulLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTests" />
+      <option name="METHOD_NAME" value="unsuccessfulLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LoginTests.wrongUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTests" />
+      <option name="METHOD_NAME" value="wrongUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyFirstTest" />
-      <option name="METHOD_NAME" value="mySecondTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -608,15 +670,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyFirstTest.myFirstTest" />
       <item itemvalue="JUnit.MyFirstTest" />
-      <item itemvalue="JUnit.MyFirstTest.mySecondTest" />
+      <item itemvalue="JUnit.LoginTests.successfulLogin" />
+      <item itemvalue="JUnit.LoginTests.unsuccessfulLogin" />
+      <item itemvalue="JUnit.LoginTests.wrongUser" />
+      <item itemvalue="JUnit.LoginTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoginTests" />
+        <item itemvalue="JUnit.LoginTests.wrongUser" />
+        <item itemvalue="JUnit.LoginTests.unsuccessfulLogin" />
+        <item itemvalue="JUnit.LoginTests.successfulLogin" />
         <item itemvalue="JUnit.MyFirstTest" />
-        <item itemvalue="JUnit.MyFirstTest.mySecondTest" />
-        <item itemvalue="JUnit.MyFirstTest.myFirstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -634,69 +700,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyFirstTest - 2018.06.26 at 00h 25m 27s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_successfulLogin - 2018.06.26 at 09h 41m 05s.xml">
+      <configuration name="LoginTests.successfulLogin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 26m 17s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_unsuccessfulLogin - 2018.06.26 at 09h 41m 36s.xml">
+      <configuration name="LoginTests.unsuccessfulLogin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 26m 48s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_unsuccessfulLogin - 2018.06.26 at 09h 42m 47s.xml">
+      <configuration name="LoginTests.unsuccessfulLogin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 30m 38s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_wrongUser - 2018.06.26 at 09h 45m 09s.xml">
+      <configuration name="LoginTests.wrongUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 32m 47s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_unsuccessfulLogin - 2018.06.26 at 09h 45m 14s.xml">
+      <configuration name="LoginTests.unsuccessfulLogin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 33m 18s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_wrongUser - 2018.06.26 at 09h 45m 51s.xml">
+      <configuration name="LoginTests.wrongUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 34m 08s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests_wrongUser - 2018.06.26 at 09h 54m 58s.xml">
+      <configuration name="LoginTests.wrongUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 00h 52m 35s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests - 2018.06.26 at 09h 56m 24s.xml">
+      <configuration name="LoginTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 01h 01m 51s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests - 2018.06.26 at 09h 57m 03s.xml">
+      <configuration name="LoginTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_myFirstTest - 2018.06.26 at 01h 02m 47s.xml">
-      <configuration name="MyFirstTest.myFirstTest" configurationId="JUnit" />
+    <history-entry file="LoginTests - 2018.06.26 at 10h 02m 45s.xml">
+      <configuration name="LoginTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32971016" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11835749" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498265" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39975846" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -704,10 +770,29 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="13" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2083#2084#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -726,9 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#2813#2814#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,16 +831,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="79" column="34" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="34" />
+        <state relative-caret-position="131">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1692#1693#0" expanded="true" />
-            <element signature="e#2041#2042#0" expanded="true" />
             <element signature="e#2083#2084#0" expanded="true" />
-            <element signature="e#2538#2539#0" expanded="true" />
-            <element signature="e#2580#2581#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1676#1677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/LoginTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#2926#2927#0" expanded="true" />
+            <element signature="e#2948#2949#0" expanded="true" />
           </folding>
         </state>
       </provider>
