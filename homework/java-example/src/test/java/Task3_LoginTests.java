@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOfElementLocated;
 
-public class LoginTests extends Base{
+public class Task3_LoginTests extends Base{
 
     /**
      * Задание 3
@@ -19,23 +19,19 @@ public class LoginTests extends Base{
      */
 
 
-    private final static String LITECART_ADMIN = "http://localhost/litecart/admin/";
-    private final static String ADMIN_LOGIN = "admin";
-    private final static String ADMIN_PSW = "admin";
+
 
     private final static By LITECART_LOGO = By.xpath("//img[@title='My Store']");
     private final static By ERROR_MSG = By.xpath("//i[@class='fa fa-exclamation-triangle']");
 
-    private final static By LOGIN_FIELD = By.name("username");
-    private final static By PSW_FIELD = By.name("password");
-    private final static By LOGIN_BTN = By.name("login");
+
 
 
 
 
     @Before
     public void runBrowser(){
-        start();
+        start(Base.EDGE);
     }
 
 
@@ -96,12 +92,7 @@ public class LoginTests extends Base{
         stop();
     }
 
-    private void loginAs(String login, String password){
-        temporaryLog("logging as user ["+login+"] with password ["+password+"]");
-        fill(LOGIN_FIELD,login);
-        fill(PSW_FIELD,password);
-        clickBtn(LOGIN_BTN);
-    }
+
 
 
 
