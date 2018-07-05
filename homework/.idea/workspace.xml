@@ -36,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -50,11 +50,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task3_LoginTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task3_LoginTests.java">
+      <file leaf-file-name="Task8_CheckStickers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="157">
+              <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task7_GoTroughMainMenu.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="36" column="77" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,18 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task7_GoTroughMainMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
+      <file leaf-file-name="ReflectiveCallable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#5619#5620#0" expanded="true" />
-                <element signature="e#5641#5642#0" expanded="true" />
-              </folding>
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -81,8 +90,8 @@
       <file leaf-file-name="IPageElements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/IPageElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="74" column="92" lean-forward="true" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="92" />
+            <state relative-caret-position="68">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -90,8 +99,8 @@
       <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+            <state relative-caret-position="295">
+              <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +113,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -487,17 +496,18 @@
         <option value="$PROJECT_DIR$/java-example/settings.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/LoginTests.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/Base.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/IPageElements.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Task7.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Base.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="54" />
-    <option name="y" value="162" />
-    <option name="width" value="2100" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1070" />
     <option name="height" value="1290" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -566,7 +576,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Task7_GoTroughMainMenu.checkSections">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -621,13 +631,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Task3_LoginTests.wrongUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task7_GoTroughMainMenu.checkSections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Task3_LoginTests" />
-      <option name="METHOD_NAME" value="wrongUser" />
+      <option name="MAIN_CLASS_NAME" value="Task7_GoTroughMainMenu" />
+      <option name="METHOD_NAME" value="checkSections" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -638,13 +648,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Task7_GoTroughMainMenu.checkSections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task8_CheckStickers.checkStickers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Task7_GoTroughMainMenu" />
-      <option name="METHOD_NAME" value="checkSections" />
+      <option name="MAIN_CLASS_NAME" value="Task8_CheckStickers" />
+      <option name="METHOD_NAME" value="checkStickers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -695,18 +705,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Task3_LoginTests.successfulLogin" />
-      <item itemvalue="JUnit.Task3_LoginTests.wrongUser" />
       <item itemvalue="JUnit.Task3_LoginTests" />
       <item itemvalue="JUnit.Task3_LoginTests.wrongPassword" />
       <item itemvalue="JUnit.Task7_GoTroughMainMenu.checkSections" />
+      <item itemvalue="JUnit.Task8_CheckStickers.checkStickers" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Task7_GoTroughMainMenu.checkSections" />
+        <item itemvalue="JUnit.Task8_CheckStickers.checkStickers" />
         <item itemvalue="JUnit.Task3_LoginTests.successfulLogin" />
         <item itemvalue="JUnit.Task3_LoginTests.wrongPassword" />
         <item itemvalue="JUnit.Task3_LoginTests" />
-        <item itemvalue="JUnit.Task3_LoginTests.wrongUser" />
       </list>
     </recent_temporary>
   </component>
@@ -724,39 +734,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Task7_checkSections - 2018.07.03 at 18h 46m 47s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 09h 45m 11s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 18h 55m 26s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 09h 47m 28s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 18h 57m 23s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 06m 59s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 07m 23s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 09m 35s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 12m 45s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 25m 22s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 46m 00s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 29m 29s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 50m 32s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 31m 19s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 54m 50s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 43m 43s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 56m 02s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 49m 09s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_checkSections - 2018.07.03 at 19h 59m 25s.xml">
-      <configuration name="Task7.checkSections" configurationId="JUnit" />
+    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 49m 24s.xml">
+      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="935" extended-state="7" />
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -767,18 +777,18 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19927536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.053140096" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098542675" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975846" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36352658" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -794,7 +804,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -904,16 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.13.0/c4a49cfe5172bb6c6de784abd4c2b21470083815/selenium-api-3.13.0-sources.jar!/org/openqa/selenium/By.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#2813#2814#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/gradlew.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1044" />
@@ -956,13 +956,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.13.0/40b70f36b19980798f1fe365856b2a1caa3dc486/selenium-edge-driver-3.13.0-sources.jar!/org/openqa/selenium/edge/EdgeDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -981,43 +974,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/IPageElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="74" column="92" lean-forward="true" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task3_LoginTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="29">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.13.0/c4a49cfe5172bb6c6de784abd4c2b21470083815/selenium-api-3.13.0-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="e#2780#2781#0" expanded="true" />
+            <element signature="e#2813#2814#0" expanded="true" />
+            <element signature="e#4186#4187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.13.0/e7c39e47444954b101e156e7e119c7576a49dbb6/selenium-remote-driver-3.13.0-sources.jar!/org/openqa/selenium/remote/RemoteWebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+          <folding>
+            <element signature="e#5957#5958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#5619#5620#0" expanded="true" />
-            <element signature="e#5641#5642#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1030,6 +1035,33 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2083#2084#0" expanded="true" />
             <element signature="e#2114#2115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/IPageElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="36" column="77" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
