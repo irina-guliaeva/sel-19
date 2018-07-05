@@ -31,6 +31,7 @@ public class Task8_CheckStickers extends Base{
         List<WebElement> goods = driver.findElements(DUCK);
 
         for(WebElement good : goods){
+            assertEquals(1, good.findElements(STICKER).size());
             WebElement sticker = good.findElement(STICKER);
             temporaryLog("for product ["+good.getAttribute("title")+"] the sticker ["+sticker.getText()+"] was found");
         }
