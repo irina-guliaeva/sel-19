@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task8_CheckStickers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Task8_CheckStickers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+            <state relative-caret-position="100">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#489#490#0" expanded="true" />
@@ -66,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task7_GoTroughMainMenu.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task7_GoTroughMainMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
@@ -100,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
-              <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+              <caret line="26" column="47" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -498,9 +498,9 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/LoginTests.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/IPageElements.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Task7.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/Base.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Base.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java" />
       </list>
     </option>
   </component>
@@ -576,7 +576,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Task8_CheckStickers.checkStickers">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -712,8 +712,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task7_GoTroughMainMenu.checkSections" />
         <item itemvalue="JUnit.Task8_CheckStickers.checkStickers" />
+        <item itemvalue="JUnit.Task7_GoTroughMainMenu.checkSections" />
         <item itemvalue="JUnit.Task3_LoginTests.successfulLogin" />
         <item itemvalue="JUnit.Task3_LoginTests.wrongPassword" />
         <item itemvalue="JUnit.Task3_LoginTests" />
@@ -734,35 +734,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 09h 45m 11s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 28m 40s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 09h 47m 28s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 43m 16s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 06m 59s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 43m 33s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 09m 35s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 45m 30s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 25m 22s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 46m 30s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 29m 29s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 51m 33s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 31m 19s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 52m 06s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 43m 43s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 56m 47s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 49m 09s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 57m 47s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task7_GoTroughMainMenu_checkSections - 2018.07.05 at 15h 49m 24s.xml">
-      <configuration name="Task7_GoTroughMainMenu.checkSections" configurationId="JUnit" />
+    <history-entry file="Task8_CheckStickers_checkStickers - 2018.07.05 at 16h 58m 33s.xml">
+      <configuration name="Task8_CheckStickers.checkStickers" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -777,7 +777,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.053140096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42753622" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -804,7 +804,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1013,20 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1039,10 +1025,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+        <state relative-caret-position="291">
+          <caret line="36" column="77" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1056,12 +1042,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task7_GoTroughMainMenu.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="36" column="77" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+        <state relative-caret-position="295">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Task8_CheckStickers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
           </folding>
         </state>
       </provider>

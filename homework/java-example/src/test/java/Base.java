@@ -24,6 +24,7 @@ public class Base {
     protected final static String EDGE = "EdgeDriver";
 
     protected final static String LITECART_ADMIN = "http://localhost/litecart/admin/";
+    protected final static String LITECART_MAIN = "http://localhost/litecart";
     protected final static String ADMIN_LOGIN = "admin";
     protected final static String ADMIN_PSW = "admin";
 
