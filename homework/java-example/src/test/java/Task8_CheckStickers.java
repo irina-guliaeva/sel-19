@@ -16,8 +16,8 @@ public class Task8_CheckStickers extends Base{
      * Сценарий должен проверять, что у каждого товара имеется ровно один стикер.
      */
 
-    private static By DUCK = By.xpath("//a[@class='link' and contains(@title,'Duck')]");
-    private static By STICKER = By.xpath(".//div[contains(@class,'sticker')]");
+    private static final By DUCK = By.xpath("//a[@class='link' and contains(@title,'Duck')]");
+    private static final By STICKER = By.xpath(".//div[contains(@class,'sticker')]");
 
     @Before
     public void runBrowser(){
@@ -35,8 +35,6 @@ public class Task8_CheckStickers extends Base{
             WebElement sticker = good.findElement(STICKER);
             temporaryLog("for product ["+good.getAttribute("title")+"] the sticker ["+sticker.getText()+"] was found");
         }
-
-
     }
 
     @After
