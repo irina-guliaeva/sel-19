@@ -1,3 +1,6 @@
+package tasks;
+
+import helpers.IPageElements;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,7 +13,7 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
-public class Task9_CheckSorting extends Base implements IPageElements{
+public class Task9_CheckSorting extends Base implements IPageElements {
     /**
      * Задание 9
      * Сделайте сценарии, которые проверяют сортировку стран и геозон (штатов) в учебном приложении litecart.

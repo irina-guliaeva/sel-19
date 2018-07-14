@@ -1,3 +1,5 @@
+package helpers;
+
 import org.openqa.selenium.By;
 
 public interface IPageElements {
