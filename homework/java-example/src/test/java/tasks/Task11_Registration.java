@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.Random;
 
-import static helpers.RandomHelper.*;
+
 
 public class Task11_Registration extends Base{
 
@@ -78,7 +78,8 @@ public class Task11_Registration extends Base{
         Select countrySelection = new Select(driver.findElement(COUNTRY));
         countrySelection.selectByVisibleText(newUser.getCountry());
         Select zoneSelection = new Select(driver.findElement(ZONE_STATE_PROVINCE));
-        zoneSelection.selectByVisibleText(getRandomState());
+        newUser.setZone(getRandomState());
+        zoneSelection.selectByVisibleText(newUser.getZone());
 
         click(CREATE_ACCOUNT);
         click(LOGOUT);
