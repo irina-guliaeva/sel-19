@@ -18,7 +18,7 @@ public class Task8_CheckStickers extends Base{
      * Сценарий должен проверять, что у каждого товара имеется ровно один стикер.
      */
 
-    private static final By DUCK = By.cssSelector("div.image-wrapper");//By.xpath("//a[@class='link' and contains(@title,'Duck')]");
+    private static final By DUCKS = By.cssSelector("li.product");
     private static final By IMAGE = By.cssSelector("img.image");
     private static final By STICKER = By.xpath(".//div[contains(@class,'sticker')]");
 
@@ -31,7 +31,7 @@ public class Task8_CheckStickers extends Base{
     @Test
     public void checkStickers(){
         navigateTo(LITECART_MAIN);
-        List<WebElement> goods = driver.findElements(DUCK);
+        List<WebElement> goods = driver.findElements(DUCKS);
 
         for(WebElement good : goods){
             assertEquals(1, good.findElements(STICKER).size());
