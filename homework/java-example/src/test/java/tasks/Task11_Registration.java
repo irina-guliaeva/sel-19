@@ -7,13 +7,14 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
+import pages.Base;
 
 import java.util.List;
 import java.util.Random;
 
 
 
-public class Task11_Registration extends Base{
+public class Task11_Registration extends Base {
 
     /**
      * Сделайте сценарий для регистрации нового пользователя в учебном приложении litecart (не в админке, а в клиентской части магазина).

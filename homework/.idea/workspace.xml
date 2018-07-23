@@ -27,18 +27,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Task14_CheckNewWindowOpened.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task14_CheckNewWindowOpened.java">
+      <file leaf-file-name="Cart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="374">
+              <caret line="78" column="53" selection-start-line="78" selection-start-column="53" selection-end-line="78" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#2364#2365#0" expanded="true" />
-                <element signature="e#2386#2387#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+                <element signature="e#1231#1232#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5145#5146#0" expanded="true" />
+                <element signature="e#5212#5213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Header.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/ProductPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="35" column="54" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task19_MultilayeredArchitecture.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task19_MultilayeredArchitecture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -46,8 +106,8 @@
       <file leaf-file-name="Task13_AddProduct2Cart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task13_AddProduct2Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="663">
+              <caret line="39" column="88" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -455,18 +515,26 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/Task11_Registration.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/helpers/User.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task11_Registration.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Base.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task1_MyFirstTest.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/helpers/Litecart.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/helpers/Product.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task10_CheckProduct.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task12_AddNewProduct.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/helpers/RandomHelper.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task13_AddProduct2Basket.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task8_CheckStickers.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task13_AddProduct2Cart.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task14_CheckNewWindowOpened.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task13_AddProduct2Cart.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/Navigation.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Base.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/Header.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/helpers/Litecart.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/ProductPage.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/Base.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/pages/Cart.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/tasks/Task19_MultilayeredArchitecture.java" />
       </list>
     </option>
   </component>
@@ -482,8 +550,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -533,6 +599,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -547,6 +622,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -573,38 +650,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Task14_CheckNewWindowOpened.checkNewWindowOpened">
+  <component name="RunManager" selected="JUnit.Task19_MultilayeredArchitecture.addDuckToCart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Task13_AddProduct2Cart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tasks" />
-      <option name="MAIN_CLASS_NAME" value="tasks.Task13_AddProduct2Cart" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="Task13_AddProduct2Cart.addProduct2Cart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -627,7 +681,7 @@
       <module name="java-example_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -646,19 +700,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Task14_CheckNewWindowOpened.checkStickers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task19_MultilayeredArchitecture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tasks" />
-      <option name="MAIN_CLASS_NAME" value="tasks.Task14_CheckNewWindowOpened" />
-      <option name="METHOD_NAME" value="checkStickers" />
+      <option name="MAIN_CLASS_NAME" value="tasks.Task19_MultilayeredArchitecture" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="tasks" />
+      <option name="MAIN_CLASS_NAME" value="tasks.Task19_MultilayeredArchitecture" />
+      <option name="METHOD_NAME" value="addDuckToCart" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -673,7 +750,7 @@
       <module name="java-example_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -732,18 +809,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Task13_AddProduct2Cart.addProduct2Cart" />
-      <item itemvalue="JUnit.Task13_AddProduct2Cart" />
-      <item itemvalue="JUnit.Task14_CheckNewWindowOpened.checkStickers" />
       <item itemvalue="JUnit.Task14_CheckNewWindowOpened.checkNewWindowOpened" />
       <item itemvalue="JUnit.Task8_CheckStickers.checkStickers" />
+      <item itemvalue="JUnit.Task19_MultilayeredArchitecture.addDuckToCart" />
+      <item itemvalue="JUnit.Task19_MultilayeredArchitecture" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task14_CheckNewWindowOpened.checkNewWindowOpened" />
+        <item itemvalue="JUnit.Task19_MultilayeredArchitecture.addDuckToCart" />
+        <item itemvalue="JUnit.Task19_MultilayeredArchitecture" />
         <item itemvalue="JUnit.Task13_AddProduct2Cart.addProduct2Cart" />
+        <item itemvalue="JUnit.Task14_CheckNewWindowOpened.checkNewWindowOpened" />
         <item itemvalue="JUnit.Task8_CheckStickers.checkStickers" />
-        <item itemvalue="JUnit.Task14_CheckNewWindowOpened.checkStickers" />
-        <item itemvalue="JUnit.Task13_AddProduct2Cart" />
       </list>
     </recent_temporary>
   </component>
@@ -761,35 +838,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 21h 44m 26s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 21h 58m 08s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 21h 53m 49s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 02m 01s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 00m 07s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 04m 04s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 04m 33s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 05m 39s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 22m 06s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 07m 58s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 26m 08s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 09m 01s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 27m 10s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 11m 14s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 37m 15s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 11m 22s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 38m 26s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 13m 56s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task14_CheckNewWindowOpened_checkNewWindowOpened - 2018.07.19 at 22h 41m 27s.xml">
-      <configuration name="Task14_CheckNewWindowOpened.checkNewWindowOpened" configurationId="JUnit" />
+    <history-entry file="Task19_MultilayeredArchitecture_addDuckToCart - 2018.07.23 at 22h 25m 55s.xml">
+      <configuration name="Task19_MultilayeredArchitecture.addDuckToCart" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -798,31 +875,31 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32971016" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32971016" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50034696" side_tool="true" weight="0.36352658" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3321256" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50034696" side_tool="true" weight="0.36352658" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34541062" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27689105" />
-      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Gradle" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.499653" weight="0.3768116" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Build" order="10" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -831,63 +908,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="107" />
+      <option name="time" value="121" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task14_CheckNewWindowOpened.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="29" />
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#2364#2365#0" expanded="true" />
-            <element signature="e#2386#2387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task8_CheckStickers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="18" selection-start-column="73" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task10_CheckProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="78" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="13" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task1_MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="23" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -895,6 +926,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -926,12 +960,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Base.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="44" column="89" selection-start-line="44" selection-start-column="89" selection-end-line="44" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#5145#5146#0" expanded="true" />
+            <element signature="e#5212#5213#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -947,6 +983,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="79" column="34" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,6 +1065,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,17 +1106,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/helpers/Litecart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task1_MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357">
           <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1082,6 +1120,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1037">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,6 +1137,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="60" column="5" lean-forward="true" selection-start-line="27" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1103,6 +1147,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1110,6 +1157,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="80" column="39" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2167#2168#0" expanded="true" />
+            <element signature="e#2190#2191#0" expanded="true" />
+            <element signature="e#3608#3609#0" expanded="true" />
+            <element signature="e#3630#3631#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1117,10 +1171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1128,13 +1178,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="204" column="9" lean-forward="true" selection-start-line="199" selection-start-column="8" selection-end-line="204" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1603">
-          <caret line="123" column="16" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1148,13 +1191,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
@@ -1164,18 +1200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task8_CheckStickers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="389">
           <caret line="45" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task13_AddProduct2Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1184,8 +1210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task14_CheckNewWindowOpened.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="-68">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#723#724#0" expanded="true" />
@@ -1193,6 +1219,129 @@
             <element signature="e#2364#2365#0" expanded="true" />
             <element signature="e#2386#2387#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Navigation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/helpers/Litecart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.13.0/f07384831b0ea7e29460fd1ddb0f62b7f84aeb8f/selenium-support-3.13.0-sources.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementListHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task13_AddProduct2Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="88" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5145#5146#0" expanded="true" />
+            <element signature="e#5212#5213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/pages/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="78" column="53" selection-start-line="78" selection-start-column="53" selection-end-line="78" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/tasks/Task19_MultilayeredArchitecture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
         </state>
       </provider>
     </entry>

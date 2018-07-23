@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import pages.Base;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -2,6 +2,13 @@ package helpers;
 
 public class Litecart {
 
+    /**
+     * LoginPage
+     */
+
+    public final static String ADMIN_LOGIN = "admin";
+    public final static String ADMIN_PSW = "admin";
+
     /**Add Product
      *
      */

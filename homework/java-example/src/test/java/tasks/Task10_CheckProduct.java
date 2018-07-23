@@ -6,8 +6,9 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebElement;
+import pages.Base;
 
-public class Task10_CheckProduct extends Base{
+public class Task10_CheckProduct extends Base {
 
     /**
      * Сделайте сценарий, который проверяет, что при клике на товар открывается правильная страница товара в учебном приложении litecart.

@@ -5,9 +5,9 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchWindowException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import pages.Base;
 
 import static helpers.RandomHelper.*;
 
@@ -27,7 +27,7 @@ import java.util.*;
  * Но в этом упражнении требуется именно кликнуть по ссылке, чтобы она открылась в новом окне, потом переключиться в новое окно, закрыть его, вернуться обратно, и повторить эти действия для всех таких ссылок.
  */
 
-public class Task14_CheckNewWindowOpened extends Base  implements IPageElements {
+public class Task14_CheckNewWindowOpened extends Base implements IPageElements {
 
     private static final By COUNTRIES_LINKS = By.cssSelector("form[name=countries_form] tr.row td:nth-child(5) a");
     private static final By EXTERNAL_LINKS  = By.cssSelector("a[target='_blank'] i.fa.fa-external-link")       ;

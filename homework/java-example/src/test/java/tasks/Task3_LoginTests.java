@@ -2,8 +2,9 @@ package tasks;
 
 import org.junit.*;
 import org.openqa.selenium.By;
+import pages.Base;
 
-public class Task3_LoginTests extends Base{
+public class Task3_LoginTests extends Base {
 
     /**
      * Задание 3

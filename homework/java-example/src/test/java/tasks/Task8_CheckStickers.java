@@ -5,11 +5,12 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import pages.Base;
 
 import java.util.List;
 import static org.junit.Assert.*;
 
-public class Task8_CheckStickers extends Base{
+public class Task8_CheckStickers extends Base {
 
     /**
      * Задание 8

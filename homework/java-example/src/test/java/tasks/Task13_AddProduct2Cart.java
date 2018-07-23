@@ -8,6 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import pages.Base;
 
 import java.util.List;
 
@@ -28,7 +29,7 @@ import static org.junit.Assert.assertTrue;
  * 6) удалить все товары из корзины один за другим, после каждого удаления подождать, пока внизу обновится таблица
  */
 
-public class Task13_AddProduct2Cart extends Base{
+public class Task13_AddProduct2Cart extends Base {
 
 
     private static final By DUCKS = By.cssSelector("li.product");
